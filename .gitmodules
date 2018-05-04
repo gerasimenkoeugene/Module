@@ -1,0 +1,6 @@
+[submodule "Submodule"]
+	path = Submodule
+	url = https://github.com/gerasimenkoeugene/Submodule
+[submodule "CryptoCurrencyService"]
+	path = CryptoCurrencyService
+	url = https://github.com/gerasimenkoeugene/CryptoCurrencyService
