@@ -2,3 +2,6 @@
 	path = Submodule
 	url = https://github.com/gerasimenkoeugene/Submodule
 
+[submodule "coursera-test"]
+	path = coursera-test
+	url = https://github.com/gerasimenkoeugene/coursera-test
