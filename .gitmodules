@@ -4,3 +4,6 @@
 [submodule "CryptoCurrencyService"]
 	path = CryptoCurrencyService
 	url = https://github.com/gerasimenkoeugene/CryptoCurrencyService
+[submodule "coursera-test"]
+	path = coursera-test
+	url = https://github.com/gerasimenkoeugene/coursera-test
