@@ -25,3 +25,8 @@ dfdsfsd
 4
 >>>>>>> 2fb419d... test pr
 1
+<<<<<<< HEAD
+=======
+2
+3
+>>>>>>> 7bd61be... commit 3
