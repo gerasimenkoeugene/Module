@@ -29,4 +29,8 @@ dfdsfsd
 =======
 2
 3
+<<<<<<< HEAD
 >>>>>>> 7bd61be... commit 3
+=======
+4
+>>>>>>> 6ebdb44... commit 4
