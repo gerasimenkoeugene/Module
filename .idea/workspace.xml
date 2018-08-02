@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="beeb6e54-9d21-43e5-9bfa-e0cc08d76bb8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/testScript/_2.txt" afterPath="$PROJECT_DIR$/testScript/_2.txt" />
       <change beforePath="$PROJECT_DIR$/testScript/_3.txt" afterPath="$PROJECT_DIR$/testScript/_3.txt" />
     </list>
@@ -26,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_2.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_2.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testScript/_2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_3.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_3.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testScript/_3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state relative-caret-position="17">
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -74,8 +73,8 @@
         <option value="$PROJECT_DIR$/README - Copy (2) - Copy.md" />
         <option value="$PROJECT_DIR$/README - Copy.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/testScript/_2.txt" />
         <option value="$PROJECT_DIR$/testScript/_3.txt" />
+        <option value="$PROJECT_DIR$/testScript/_2.txt" />
       </list>
     </option>
   </component>
@@ -338,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533135162046</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="com">
+      <created>1533200233238</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1533200233238</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -595,18 +601,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testScript/_2.txt">
+    <entry file="file://$PROJECT_DIR$/testScript/_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testScript/_3.txt">
+    <entry file="file://$PROJECT_DIR$/testScript/_2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
       </provider>
